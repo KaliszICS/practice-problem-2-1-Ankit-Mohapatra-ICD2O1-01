@@ -7,6 +7,8 @@ def q1():
  else:
   print(f"{num} is odd")
 
+  #done
+
 
 def q2(): 
   name = input("In: ")
