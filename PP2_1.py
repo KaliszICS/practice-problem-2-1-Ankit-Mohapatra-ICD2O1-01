@@ -5,7 +5,7 @@ def q1():
  if (num % 2 == 0):
   print(f"{num} is even")
  else:
-  print(f"{num} is even")
+  print(f"{num} is odd")
 
 
 def q2(): 
